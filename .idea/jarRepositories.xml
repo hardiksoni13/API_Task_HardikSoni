@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="libsReleases" />
+      <option name="name" value="labs-libs-release" />
+      <option name="url" value="https://labs.mastercard.com/artifactory/libs-release-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="libsRndSnapshots" />
+      <option name="name" value="labs-rnd-libs-snapshot" />
+      <option name="url" value="https://labs.mastercard.com/artifactory/rnd-snapshots-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nz-snapshots" />
+      <option name="name" value="nz-snapshots-all" />
+      <option name="url" value="https://artifacts.mastercard.int/artifactory/snapshots-all" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="libsSnapshots" />
+      <option name="name" value="labs-libs-snapshot" />
+      <option name="url" value="https://labs.mastercard.com/artifactory/libs-snapshot-local" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nz-central" />
+      <option name="name" value="nz-public-all" />
+      <option name="url" value="https://artifacts.mastercard.int/artifactory/maven-all" />
+    </remote-repository>
+  </component>
+</project>
